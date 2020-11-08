@@ -1,0 +1,4 @@
+/**
+* Functions are objects
+*/
+
