@@ -4,3 +4,15 @@ Functions and Objects
 
 #31 - Objects and objects literals
 #32 - Framework Aside: faking Namespaces - REVIEW 
+#33
+#34- First Class Functions 
+   - Everything you can do with other types you can do with functions you can do with functions.
+   - Assign them to variables, pass them around, create them on the fly.
+   - Fucntion is a object - A special type of object.
+   ---> Primitive
+   ---> Object
+   ---> Function
+   --->(Important) NAME optional, can be anonymous
+   --->(Important) CODE "Invocable" ()
+#35 - Function Statements And Function Expressions
+    - Expression: A unit of code that results in a value: It doesn't have to save a variable.
