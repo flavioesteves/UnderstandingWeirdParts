@@ -37,4 +37,8 @@ Functions and Objects
     - Carriage returns, tabs, spaces.
 #44 - Immediately Invoked Function expressions (IIFE)S
 #45 - IIFEs and Safe Code
-#46 - Understanding Closures
+#46 - Understanding Closures Part 1 (Important)
+#47 - Understanding Closures Part 2 (Important)
+#48 - Framework Aside: Function Factories (Important)
+#49 - Closures and Callbacks (Important)
+#50 - Call(), Apply() and Bind()
