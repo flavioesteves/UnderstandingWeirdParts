@@ -42,3 +42,5 @@ Functions and Objects
 #48 - Framework Aside: Function Factories (Important)
 #49 - Closures and Callbacks (Important)
 #50 - Call(), Apply() and Bind()
+    - Function Borrowing 
+    - Function Currying
