@@ -1,4 +1,4 @@
-# Section 2
+# Section 2 - Execution Contexts and Lexical
 
 ####### Conceptual Aside #######
 
@@ -16,8 +16,7 @@
  - Outer Environment
  - Run the Code
 
-
-# Section 3
+# Section 3 - Types and Operators
 
  * Types and Javascript
  *  -Is Dynamic Typing
@@ -52,9 +51,7 @@
  * 28 - Default values
  *  -is good to put default values example: name = name || '<Your default value>' // care with =0 
  
- # Section 4
-
- Functions and Objects
+ # Section 4 - Objects And Functions
 
  * 30 - Objects and dots (memory)
     -Objects have property and methods(functions)
@@ -103,3 +100,8 @@
       -Function Currying
 
 * 51 - Functional Programming
+* 52 - Functional Programming part2 : underscore.js, lodash.com
+
+# Section 5 - Object-Oriented Javascript and Prototypal Inheritance
+
+* 53 - Conceptual Aside: Classical vs Prototypal Inheritance
