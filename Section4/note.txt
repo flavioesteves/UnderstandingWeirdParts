@@ -44,3 +44,4 @@ Functions and Objects
 #50 - Call(), Apply() and Bind()
     - Function Borrowing 
     - Function Currying
+#51 - Functional Programming
