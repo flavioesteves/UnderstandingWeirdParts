@@ -105,3 +105,4 @@
 # Section 5 - Object-Oriented Javascript and Prototypal Inheritance
 
 * 53 - Conceptual Aside: Classical vs Prototypal Inheritance
+* 54 - Understanding the Prototype
