@@ -108,3 +108,7 @@
 * 54 - Understanding the Prototype
 * 55 - Everything is an Object (or a primitive)
 * 56 - Reflection and extended
+
+# Section 6 - Building Objects
+
+* 57 - Function Constructors, 'new', and the History of Javascript
