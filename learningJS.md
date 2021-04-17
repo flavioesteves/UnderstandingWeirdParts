@@ -112,3 +112,6 @@
 # Section 6 - Building Objects
 
 * 57 - Function Constructors, 'new', and the History of Javascript
+* 58 - Function Contructors and '.Prototype'
+* 59 - Dangerous Aside: 'new' and functions
+* 60 - Conceptual Aside: Built-In Function Contructors
