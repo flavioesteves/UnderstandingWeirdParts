@@ -116,4 +116,5 @@
 * 59 - Dangerous Aside: 'new' and functions
 * 60 - Conceptual Aside: Built-In Function Contructors
 * 61 - Dangerous Aside: Built-In Function Constructors
-* 62 -  Dangerous Aside: Arrays and for..in 
+* 62 - Dangerous Aside: Arrays and for..in 
+* 63 - Object.create and Pure Prototypal Inheritance - Polyfill
