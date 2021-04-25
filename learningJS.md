@@ -117,3 +117,4 @@
 * 61 - Dangerous Aside: Built-In Function Constructors
 * 62 - Dangerous Aside: Arrays and for..in 
 * 63 - Object.create and Pure Prototypal Inheritance - Polyfill
+* 64 - ES6 and Classes - Class, extends,super
