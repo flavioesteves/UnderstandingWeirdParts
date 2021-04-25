@@ -33,7 +33,6 @@
 * 
 * 21 - Operators  - special function with 2 values return 1
 *  = + - / *
-* 
 * 22 - Operator Precedence and Associativity
 *  -Functions are called in order of precedence (HIGHER precedence wins)
 *  -ASSOCIATIVITY: what order operator functions get called in left-to-right or right-to-left, when functions have     same precedence
