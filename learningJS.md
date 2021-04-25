@@ -118,3 +118,17 @@
 * 62 - Dangerous Aside: Arrays and for..in 
 * 63 - Object.create and Pure Prototypal Inheritance - Polyfill
 * 64 - ES6 and Classes - Class, extends,super
+
+# Section 7 - Odds and Ends
+
+* 65 - Initialization
+* 66 - 'typeof', 'instanceof', and Figuring Out What Something Is
+* 67 - Strict Mode
+* 68 - Strict Mode Reference
+    EXTRAS
+    Read more about strict mode on the MDN (Mozilla Developer Network): https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
+
+# Section 8 - Examining Famous Frameworks and Libraries
+
+* 69 - Learning From Other's Good Code
+* 70 - Deep Dive into Source Code:jQuery - Part 1
