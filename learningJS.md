@@ -133,5 +133,29 @@
 * 69 - Learning From Other's Good Code
 * 70 - Deep Dive into Source Code:jQuery - Part 1
 * 71 - Deep Dive into Source Code:jQuery - Part 2
-* 73 - Deep Dive into Source Code:jQuery - Part 3
+* 72 - Deep Dive into Source Code:jQuery - Part 3
 
+# Section 9 - Let's Build a Framework / Library!
+
+* 73 - Requirements
+* 74 - Structuring Safe Code
+* 75 - Our Object and its Prototype
+* 76 - Properties and Chainable Methods
+* 77 - Adding jQuery Support
+* 78 - Good Commenting
+* 79 - Let's Use our Framework
+* 80 - A Side Note (No Code)
+
+# Section 10 - Bonus Lectures (NO Code)
+
+* 81 - Typescript, ES6, and Transpiled Languages
+* 82 - Transpiled Languages References
+
+# Section 11 - Bonus: Geetting Ready for ECMAScript 6 (No Code)
+
+* 83 - Existing and Upcoming Features
+* 84 - ES6 Features Reference
+
+# Section 12 - Conclusion (No Code)
+
+* 85 -  Learning to Love the Weird Parts

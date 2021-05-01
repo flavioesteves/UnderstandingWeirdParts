@@ -1,12 +1,11 @@
 /**
- * Learning Frm Other's Good Code 
- * An Open Source Education
- */
-
-/**
- * GitHub explore code usually src code
- * or 
- * go to the website of the code and check out
- * good way to learn patterns of framework or library
+ * ## Requirements ##
  * 
+ * name: Greetr
+ * requirements: 
+ *  - When given a first name,last name, and optional language, it generates formal and informal greetings.
+ *  - Support English and Spanish languages.
+ *  - Reusable library/framework
+ *  - Easy to type 'G$()' structure.
+ *  - Support jQuery
  */
