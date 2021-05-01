@@ -133,4 +133,5 @@
 * 69 - Learning From Other's Good Code
 * 70 - Deep Dive into Source Code:jQuery - Part 1
 * 71 - Deep Dive into Source Code:jQuery - Part 2
+* 73 - Deep Dive into Source Code:jQuery - Part 3
 
